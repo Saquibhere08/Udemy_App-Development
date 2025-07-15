@@ -99,21 +99,8 @@ To run tests:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Please fork the repository, make changes, and submit a pull request.
-
----
-
-## 🙋‍♂️ Author
-
+## 📄 Important Links
+https://kotlinlang.org/docs/home.html
 **Saquib Halim**  
 📧 saquibhalim@example.com  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
